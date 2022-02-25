@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&subset=greek,cyrillic");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&subset=greek");
 * {
   box-sizing: border-box;
 }
@@ -111,7 +111,7 @@ input[type="text"] {
 .single-meal ul li {
   border: 1px solid #f6ecf0;
   border-radius: 5px;
-  background-color: #949cdf;
+  background-color: #0d0d0f;
   color: #f6ecf0;
   display: inline-block;
   padding: 5px 10px;
