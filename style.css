@@ -4,8 +4,8 @@
 }
 body {
   font-family: "Verdana";
-  background: #7027cf;
-  background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);  color: #7027cf;
+  background: #0bf3ad;
+  background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);  color: #0bf3ad;
   margin: 0;
 }
 .container {
@@ -22,7 +22,7 @@ body {
 }
 input,
 button {
-  border: 1px solid #949cdf;
+  border: 1px solid #0d0d0f;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   padding: 8px 10px;
@@ -63,7 +63,7 @@ input[type="text"] {
 .meal img {
   width: 100%;
   height: 100%;
-  border: 4px solid #949cdf;
+  border: 4px solid #0d0d0f;
   border-radius: 5px;
 }
 .meal-info {
@@ -89,7 +89,7 @@ input[type="text"] {
 .single-meal img {
   width: 300px;
   margin: 15px;
-  border: 5px solid #949cdf;
+  border: 5px solid #0d0d0f;
   border-radius: 5px;
 }
 .single-meal-info {
